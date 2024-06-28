@@ -12,3 +12,6 @@
 
 ![Alt text](images/pagination.png?raw=true "Accordion")
 
+# 3. Hero Section
+
+![Alt text](images/hero.png?raw=true "Accordion")
