@@ -2,4 +2,8 @@
 
 # 1. Accordion
 
-![Alt text](images/accordion.png?raw=true "Title")
+![Alt text](images/accordion.png?raw=true "Accordion")
+
+# 1. Carousel
+
+![Alt text](images/carousel.png?raw=true "Accordion")
