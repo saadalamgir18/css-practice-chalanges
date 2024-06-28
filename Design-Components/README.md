@@ -4,6 +4,6 @@
 
 ![Alt text](images/accordion.png?raw=true "Accordion")
 
-# 1. Carousel
+# 2. Carousel
 
 ![Alt text](images/carousel.png?raw=true "Accordion")
